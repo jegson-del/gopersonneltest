@@ -18,7 +18,6 @@ class ContactController extends Controller
      */
     public function index()
     {
-
         return view('welcome');
     }
 
@@ -130,7 +129,6 @@ class ContactController extends Controller
     {
         //
     }
-
     /**
      * Remove the specified resource from storage.
      *
